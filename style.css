@@ -1,0 +1,48 @@
+.info {
+    color: #ffdcba ;
+    font-size: 27px ;
+    font-family: 'Stint Ultra Condensed', cursive;
+    padding-right:20px;
+    padding-left: 20px;
+    text-align: center;
+    font-weight: normal;
+    background-color: #ff5757;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    margin-right:20px;
+    margin-left:20px;
+    float: none;
+    margin-top: 235px;
+    border-radius: 100px;
+    box-shadow: 0 0 18px #ffdcba;
+}
+body {
+    background-image: url("https://cdn.wallpapersafari.com/1/99/ygt3hC.jpg");
+    background-repeat: no-repeat;
+}
+.copy_right_footer {
+    bottom: 0;
+    float:none;
+    font-size: 20px;
+    background-color:rgb(230, 230, 34) ;
+    text-align: center;
+    padding: 15px;
+    color: #ff5757 ;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Dancing Script', cursive;
+    position: fixed;
+    width: 100% ;
+    font-weight: bold;
+}
+#fontoshop_img {
+   margin-top: -170px;
+}
+ 
+::selection {
+    background-color:#ff5757 ;
+    color: #ffdcba ;
+    font-weight: normal;
+}
+/* canvas {
+    border: 10px solid red ;
+} */
